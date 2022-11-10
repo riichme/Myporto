@@ -1,0 +1,24 @@
+.jumbotron {
+background-image: url(biru-hd.jpg);
+background-size: cover;
+height: 500px;
+}
+
+.image {
+    size: 200px;
+    height: 210px;
+}
+
+.cuuuaca{
+    height: 200px;
+   size: 200px;
+}
+
+td, tr {
+    border: 1px;
+    padding: 5px;
+}
+
+table{
+    width: 100%;
+}
